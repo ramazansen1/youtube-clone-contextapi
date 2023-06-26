@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(24, 24, 24);
+  color: white;
+  /* overflow-x: hidden; */
+}
+
+.react-player {
+  width: auto;
+  aspect-ratio: 16/9;
+}
