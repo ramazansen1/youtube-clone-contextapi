@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 const SearchResults = ({ videoInfo }) => {
   const { video } = videoInfo;
-  console.log(video);
+  // console.log(video);
   return (
     <Link to={`/watch/${video.videoId}`}>
       <div className="mx-[10px] p-5 md:mx-[50px]">

@@ -4,7 +4,7 @@ import millify from "millify";
 
 const VideoCard = ({ videoInfo }) => {
   const { video } = videoInfo;
-  console.log(video);
+  // console.log(video);
   return (
     <Link to={`/watch/${video?.videoId}`}>
       <div className="cursor-pointer">
