@@ -1,6 +1,5 @@
 import millify from "millify";
 import { BsDot } from "react-icons/bs";
-import StringArea from "../components/StringArea";
 import { Link } from "react-router-dom";
 
 const SearchResults = ({ videoInfo }) => {

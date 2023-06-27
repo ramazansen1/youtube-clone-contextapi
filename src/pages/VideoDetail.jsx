@@ -12,6 +12,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import millify from "millify";
 import Comments from "../components/Comments";
+
 const VideoDetail = () => {
   const params = useParams();
   const [videoDetails, setVideoDetails] = useState(null);
