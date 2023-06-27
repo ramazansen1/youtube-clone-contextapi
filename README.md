@@ -9,7 +9,7 @@ This web app is a clone of the site YouTube and is made with React, ContextAPI a
 ## Links
 
 - [Github Repo](https://github.com/ramazansen1/youtube-clone-contextapi)
-- [Demo Site](https://youtube-clone.netlify.com)
+- [Demo Site]()
 
 ## Installation
 
