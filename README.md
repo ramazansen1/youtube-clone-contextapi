@@ -85,4 +85,4 @@ Any issues or questions please feel free to [email me](mailto:snramazansen@gmail
 ### Video Detail
 
 <img src="/public/screen-images/videodetail_1.png">
-<img src="/public/screen-images/video-detail_1.1.png.png">
+<img src="/public/screen-images/video-detail_1.1.png">
